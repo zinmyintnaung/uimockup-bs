@@ -1,0 +1,10 @@
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark {
+    background-color: rgb(36, 36, 36); }
+  
+.footer {
+    background-color: #929fba;
+}

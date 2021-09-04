@@ -1,0 +1,21 @@
+{
+  "name": "voteycause",
+  "version": "1.0.0",
+  "description": "This project aim to create UI for VoteYourCause application.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Zin Myint Naung",
+  "license": "ISC",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.0",
+    "bootstrap-social": "^5.1.1",
+    "jquery": "^3.6.0",
+    "lite-server": "^2.6.1",
+    "popper.js": "^1.16.1"
+  }
+}
